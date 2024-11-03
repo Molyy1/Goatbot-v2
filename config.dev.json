@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "rifatmetabot@gmail.com",
-    "password": "..290066..",
+    "email": "hassanadvice908@gmail.com",
+    "password": "lllkkk",
     "2FASecret": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -17,9 +17,9 @@
     "hideNotiMessage": false
   },
   "adminBot": [
-    "100028992856988"
+    "61555393416824"
   ],
-  "nickNameBot": "Meta Bot✅",
+  "nickNameBot": "Moon✅",
   "prefix": "!",
   "database": {
     "type": "sqlite",
